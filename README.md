@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jayadrata Middey</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A Passionate Flutter App (Mobile, Desktop, Web) Developer from India</h3>
 
 <br>
 
