@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.dngappdeveloper.com/images/app-development/flutter-application-development-banner.jpg)](https://jayadrata.com)
 <h1 align="center">Hi 👋, I'm Jayadrata Middey</h1>
 <h3 align="center">A Passionate Flutter App (Mobile, Desktop, Web) Developer from India</h3>
 
