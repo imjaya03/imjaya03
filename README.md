@@ -35,7 +35,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjaya03&theme=vue"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjaya03&show_icons=true&locale=en&layout=compact" alt="imjaya03" /></p>
