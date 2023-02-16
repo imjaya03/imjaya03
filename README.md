@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [jayadrata.com](jayadrata.com)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Linux**
 
 - 📫 How to reach me **imjaya03@gmail.com**
 
-- ⚡ Fun fact **Coding is fun**
+- ⚡ Fun fact **Chant Hare Krishna and be Happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
