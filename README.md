@@ -38,7 +38,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%230175C2.svg?style=for-the-badge&logo=bash&logoColor=white)
-![Node](https://img.shields.io/badge/node-%230175C2.svg?style=for-the-badge&logo=node&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-%230175C2.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%230175C2.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 💳 Github Profile Summary Card
