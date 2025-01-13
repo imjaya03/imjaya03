@@ -1,53 +1,236 @@
-[![MasterHead](https://www.dngappdeveloper.com/images/app-development/flutter-application-development-banner.jpg)](https://jayadrata.com)
-<h1 align="center">Hi 👋, I'm Jayadrata Middey</h1>
-<h3 align="center">A Passionate Flutter App (Mobile, Desktop, Web) Developer from India</h3>
+# Jayadrata Middey
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imjaya03&label=Profile%20views&color=0e75b6&style=flat" alt="imjaya03" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imjaya03" target="blank"><img src="https://img.shields.io/twitter/follow/imjaya03?logo=twitter&style=for-the-badge" alt="imjaya03" /></a> </p>
-
-- 🌱 I’m currently learning **Backend**
-
-- 👨‍💻 All of my projects are available at [jayadrata.com](jayadrata.com)
-
-- 💬 Ask me about **Flutter, Dart, Linux**
-
-- 📫 How to reach me **imjaya03@gmail.com**
-
-- ⚡ Fun fact **Chant Hare Krishna and be Happy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imjaya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjaya03" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/imjaya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imjaya03" height="30" width="40" /></a>
-<a href="https://instagram.com/imjaya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imjaya03" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD6F7&center=true&vCenter=true&random=false&width=500&lines=Senior+Software+Engineer;Flutter+%26+Cross-Platform+Expert;4%2B+Years+of+Development+Experience;Hare+Krishna+%7C+Tech+Enthusiast;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
 </p>
 
-## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5670430067874104335) [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://jayadrata.com)
+> *"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन" - You have the right to work, but never to the fruit of work.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## 🌟 Quick Overview
 
-## 💻 Tech Stack
-![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%230175C2.svg?style=for-the-badge&logo=linux&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-jayadrata.com-blue?style=flat&logo=google-chrome)](https://jayadrata.com)
+[![GitHub followers](https://img.shields.io/github/followers/imjaya03?style=social)](https://github.com/imjaya03)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imjaya03?style=social)](https://twitter.com/imjaya03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imjaya03)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://youtube.com/@imjaya03)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@imjaya03)
+[![Dev.to](https://img.shields.io/badge/dev.to-Follow-black?style=flat&logo=dev.to)](https://dev.to/imjaya03)
 
-## 💳 Github Profile Summary Card
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjaya03&theme=vue"/>
+## 💫 Professional Identity
+
+```typescript
+interface TechExpertise {
+  crossPlatform: string[];
+  backend: string[];
+  devops: string[];
+  databases: string[];
+  tools: string[];
+}
+
+class SeniorEngineer {
+  readonly name: string = "Jayadrata Middey";
+  readonly title: string = "Senior Flutter Developer";
+  readonly location: string = "India 🇮🇳";
+  readonly experience: number = 4.5; // years
+  
+  expertise: TechExpertise = {
+    crossPlatform: [
+      "Flutter", "Dart", "BLoC Pattern",
+      "Provider", "GetX", "Riverpod"
+    ],
+    backend: [
+      "Node.js", "Express", "REST APIs",
+      "GraphQL", "WebSockets", "gRPC"
+    ],
+    devops: [
+      "Docker", "CI/CD", "GitHub Actions",
+      "Jenkins", "AWS", "Firebase"
+    ],
+    databases: [
+      "MongoDB", "MySQL", "PostgreSQL",
+      "Firebase Realtime", "Firestore"
+    ],
+    tools: [
+      "Git", "Jira", "Postman", "Swagger",
+      "Firebase Analytics", "Crashlytics"
+    ]
+  };
+
+  spiritualPhilosophy(): string[] {
+    return [
+      "Write code with consciousness",
+      "Build solutions with purpose",
+      "Serve through innovation",
+      "Practice mindful development"
+    ];
+  }
+}
+```
+
+## 🚀 Professional Highlights
+
+### 💼 Work Experience
+- Senior Flutter Developer @ Leading Tech Company
+- Cross-Platform Development Expert
+- Tech Lead for Multiple Projects
+- Mentored Junior Developers
+- Published Multiple Apps on Play Store & App Store
+
+### 🎯 Core Competencies
+- Advanced State Management Solutions
+- Complex UI/UX Implementation
+- High-Performance App Architecture
+- Cross-Platform Development
+- CI/CD Pipeline Optimization
+- Backend Integration & API Design
+
+### 📱 App Development Expertise
+- Mobile Applications (Android & iOS)
+- Desktop Applications (Windows, macOS, Linux)
+- Web Applications (Flutter Web, PWA)
+- Backend Services & APIs
+- Real-time Applications
+- Offline-First Architecture
+
+## 🛠️ Technical Arsenal
+
+### Mobile & Cross-Platform
+- Flutter/Dart ⭐⭐⭐⭐⭐
+- BLoC Pattern ⭐⭐⭐⭐⭐
+- Provider ⭐⭐⭐⭐
+- GetX ⭐⭐⭐⭐
+- Riverpod ⭐⭐⭐⭐
+
+### Backend & Cloud
+- Firebase ⭐⭐⭐⭐⭐
+- Node.js ⭐⭐⭐⭐
+- Express ⭐⭐⭐⭐
+- REST APIs ⭐⭐⭐⭐
+- WebSockets ⭐⭐⭐⭐
+
+### DevOps & Tools
+- Git/GitHub ⭐⭐⭐⭐⭐
+- Docker ⭐⭐⭐⭐
+- CI/CD ⭐⭐⭐⭐
+- Linux ⭐⭐⭐⭐
+- AWS ⭐⭐⭐
+
+## 📚 Knowledge Sharing
+
+### Technical Blog Topics
+- Flutter Architecture Best Practices
+- State Management Deep Dives
+- Performance Optimization Techniques
+- Clean Code Principles
+- Testing Strategies
+- CI/CD Implementation Guides
+
+### Workshop & Training
+- Flutter Development Bootcamps
+- Cross-Platform Best Practices
+- Mobile App Architecture
+- State Management Workshops
+- Code Review Sessions
+
+## 🎯 Current Focus
+
+```dart
+class ProfessionalGrowth {
+  final List<String> currentLearning = [
+    "Advanced System Design Patterns",
+    "Microservices Architecture",
+    "Cloud Native Development",
+    "AI/ML Integration in Flutter",
+    "WebAssembly with Flutter"
+  ];
+  
+  final List<String> upcomingProjects = [
+    "Flutter Clean Architecture Template",
+    "Cross-Platform State Management Library",
+    "Flutter Performance Monitoring Tool",
+    "Real-time Collaboration Framework"
+  ];
+}
+```
+
+## 🕉️ Spiritual Tech Journey
+
+### Guiding Principles
+1. **Karma Yoga in Code**
+   - Write code with dedication
+   - Focus on quality over quantity
+   - Maintain ethical practices
+
+2. **Bhakti in Development**
+   - Develop with devotion
+   - Create meaningful solutions
+   - Serve users with care
+
+3. **Dharma in Practice**
+   - Follow coding standards
+   - Maintain documentation
+   - Share knowledge freely
+
+4. **Technical Seva**
+   - Contribute to open source
+   - Help fellow developers
+   - Create value for society
+
+### 📜 Ancient Wisdom in Modern Development
+> *"यथा पिन्दे तथा ब्रम्हान्डे"*  
+> As is the coding practice, so is the application
+
+1. **Focus & Dedication**
+   ```sanskrit
+   योग: कर्मसु कौशलम्
+   Excellence comes through focused practice
+   ```
+
+2. **Continuous Learning**
+   ```sanskrit
+   विद्या विनयेन शोभते
+   Knowledge shines through humility
+   ```
+
+3. **Service Oriented**
+   ```sanskrit
+   परोपकाराय फलन्ति वृक्षा:
+   Create for the benefit of all
+   ```
+
+## 🌐 Social & Professional Network
+
+### 💼 Professional Platforms
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imjaya03)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imjaya03)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/imjaya03)
+
+### 📱 Social Media
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imjaya03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imjaya03)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/imjaya03)
+
+### 📝 Content Platforms
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imjaya03)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/imjaya03)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@imjaya03)
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=imjaya03&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=imjaya03&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaya03&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imjaya03&show_icons=true&locale=en&layout=compact" alt="imjaya03" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imjaya03&show_icons=true&locale=en" alt="imjaya03" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imjaya03&" alt="imjaya03" /></p>
+### 🙏 Daily Inspiration
+*"हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे।*  
+*हरे राम हरे राम राम राम हरे हरे॥"*
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+*Code with consciousness, develop with devotion, deploy with dedication.*
+
+</div>
