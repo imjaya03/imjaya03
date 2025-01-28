@@ -18,52 +18,111 @@
 
 ## 💫 Professional Identity
 
-```typescript
-interface TechExpertise {
-  crossPlatform: string[];
-  backend: string[];
-  devops: string[];
-  databases: string[];
-  tools: string[];
+```dart
+/// Represents the technical expertise of an engineer.
+class TechExpertise {
+  final List<String> crossPlatform;
+  final List<String> backend;
+  final List<String> devops;
+  final List<String> databases;
+  final List<String> tools;
+
+  /// Constructor to initialize all technical expertise fields.
+  TechExpertise({
+    required this.crossPlatform,
+    required this.backend,
+    required this.devops,
+    required this.databases,
+    required this.tools,
+  });
+
+  @override
+  String toString() {
+    return '''
+    Cross-Platform: $crossPlatform
+    Backend: $backend
+    DevOps: $devops
+    Databases: $databases
+    Tools: $tools
+    ''';
+  }
 }
 
+/// Represents a senior engineer with their details and expertise.
 class SeniorEngineer {
-  readonly name: string = "Jayadrata Middey";
-  readonly title: string = "Senior Flutter Developer";
-  readonly location: string = "India 🇮🇳";
-  readonly experience: number = 4.5; // years
-  
-  expertise: TechExpertise = {
+  final String name = "Jayadrata Middey";
+  final String title = "Senior Flutter Developer";
+  final String location = "India 🇮🇳";
+  final double experience = 4.5; // years
+
+  final TechExpertise expertise = TechExpertise(
     crossPlatform: [
-      "Flutter", "Dart", "BLoC Pattern",
-      "Provider", "GetX", "Riverpod"
+      "Flutter",
+      "Dart",
+      "BLoC Pattern",
+      "Provider",
+      "GetX",
+      "Riverpod",
     ],
     backend: [
-      "Node.js", "Express", "REST APIs",
-      "GraphQL", "WebSockets", "gRPC"
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "GraphQL",
+      "WebSockets",
+      "gRPC",
     ],
     devops: [
-      "Docker", "CI/CD", "GitHub Actions",
-      "Jenkins", "AWS", "Firebase"
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "AWS",
+      "Firebase",
     ],
     databases: [
-      "MongoDB", "MySQL", "PostgreSQL",
-      "Firebase Realtime", "Firestore"
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Firebase Realtime",
+      "Firestore",
     ],
     tools: [
-      "Git", "Jira", "Postman", "Swagger",
-      "Firebase Analytics", "Crashlytics"
-    ]
-  };
+      "Git",
+      "Jira",
+      "Postman",
+      "Swagger",
+      "Firebase Analytics",
+      "Crashlytics",
+    ],
+  );
 
-  spiritualPhilosophy(): string[] {
+  /// Returns a list of spiritual philosophies followed by the engineer.
+  List<String> spiritualPhilosophy() {
     return [
       "Write code with consciousness",
       "Build solutions with purpose",
       "Serve through innovation",
-      "Practice mindful development"
+      "Practice mindful development",
     ];
   }
+
+  @override
+  String toString() {
+    return '''
+    Name: $name
+    Title: $title
+    Location: $location
+    Experience: $experience years
+    Expertise: $expertise
+    ''';
+  }
+}
+
+void main() {
+  SeniorEngineer engineer = SeniorEngineer();
+  print(engineer);
+  print('Spiritual Philosophy: ${engineer.spiritualPhilosophy().join(', ')}');
 }
 ```
 
